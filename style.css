@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(251, 253, 129);
+}
+
+#origami1{
+   background-color:rgb(213, 155, 236);
+}
+
+#origami2{
+  background-color:rgb(213, 155, 236); 
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.image{
+    border-radius: 10px;
+}
+
+#videos{
+  background-color: rgb(233, 175, 175);
+}
+
+#name{
+   
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+color:purple;
+font-size:  20px;
+font-family:'Courier New', Courier, monospace;
+}
